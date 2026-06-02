@@ -53,3 +53,5 @@ The following analyses were performed:
 
 ## Conclusion
 This project demonstrates the use of data cleaning and exploratory data analysis techniques to understand and visualize patterns in real-world data.
+## Author
+SHIVANI.D
